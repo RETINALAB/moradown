@@ -298,7 +298,7 @@
   \begin{center}
     \setcounter{page}{1}
     \null\vfil
-    {\fontsize{12}{14}\selectfont \@title}
+    {\fontsize{16}{14}\selectfont \textbf \@title}
     \vfil
     \centerline{\hbox to \wd0 {\hbox{}\hrulefill\hbox{}}}
     \vfil

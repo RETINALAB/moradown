@@ -1,5 +1,5 @@
 ---
-title: 'My Final College Paper'
+title: 'Thesis Title'
 author: 'Your R. Name'
 date: 'May 20xx'
 institution: 'Reed College'
